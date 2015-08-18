@@ -1,0 +1,3 @@
+[submodule "Desktop/Capium-IOS/capium/Alamofire"]
+	path = Desktop/Capium-IOS/capium/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
